@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+a:link, a:visited {
+	color: #800000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff8000;
+	text-decoration: none;
+}
+
+.button2 {
+	width: 100px;
+	min-height: 15px;
+	display: block;
+	background-color: #26729a;
+	border: none;
+	color: #fff;
+	padding: 9px 14px;
+	font-size: 15px;
+	line-height: normal;
+	border-radius: 5px;
+	margin: auto;
+	font-size: 1S5px;
+	font-family: STXinwei;
+}
